@@ -1,0 +1,23 @@
+loaded 20000 rows from data/synthetic_pilot.csv
+n_sub=50  replicate 20/100  9s elapsed
+n_sub=50  replicate 40/100  18s elapsed
+n_sub=50  replicate 60/100  27s elapsed
+n_sub=50  replicate 80/100  36s elapsed
+n_sub=50  replicate 100/100  45s elapsed
+n_sub=100  replicate 20/100  55s elapsed
+n_sub=100  replicate 40/100  64s elapsed
+n_sub=100  replicate 60/100  74s elapsed
+n_sub=100  replicate 80/100  83s elapsed
+n_sub=100  replicate 100/100  92s elapsed
+n_sub=200  replicate 20/100  102s elapsed
+n_sub=200  replicate 40/100  114s elapsed
+n_sub=200  replicate 60/100  126s elapsed
+n_sub=200  replicate 80/100  137s elapsed
+n_sub=200  replicate 100/100  147s elapsed
+n_sub=500  replicate 20/100  166s elapsed
+n_sub=500  replicate 40/100  186s elapsed
+n_sub=500  replicate 60/100  204s elapsed
+n_sub=500  replicate 80/100  221s elapsed
+n_sub=500  replicate 100/100  239s elapsed
+wrote 12000 rows to results.csv
+total time: 239 seconds (4.0 minutes)
